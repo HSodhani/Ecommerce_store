@@ -53,7 +53,7 @@ Open Your browser put inside URL:
 “http://localhost/store/”
 To Login as admin put inside URL:”http://localhost/store”
 user login details:
-Login Id: hardik.sodhani@gmial.com
+Login Id: hardik.sodhani@gmail.com
 Password:hardik
 
 
