@@ -16,7 +16,7 @@ application by keeping the entire process in the view of database integration ap
 Administrator of Shopping Cart System has multiple features such as Add, Delete, Update shopping Items.
 
 Features of shopping cart
-Secure registration and profile managementfacilities for Customers.
+Secure registration and profile management facilities for Customers.
 Browsing through the e-Mall to see the itemsthat are there in each category of products likeApparel, Kitchen accessories,
 Bath accessories, Food items etc.
 Creating a Shopping cart so that customer canShop N number of items and checkout finally withthe entire shopping cart
@@ -32,7 +32,7 @@ CSS : (Cascading Style Sheets) Create attractiveLayout
 JavaScript: it is a programming language,commonly use with web browsers.
 Back end: PHP, MySQL
 
-PHP: Hypertext Preprocessor (PHP) is atechnology that allows software developers tocreate
+PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers tocreate
 dynamically generated web pages, in HTML, XML,or other document types, as per client request.
 PHP is open source software.
 
